@@ -1,0 +1,51 @@
+# Mecanicadesuelos — Calama
+
+> Geotechnical engineering services in Calama, Chile.
+
+## Services
+- [Aislacion Sismica](https://calama.mecanicadesuelos.biz/aislacion-sismica/)
+- [Anclajes](https://calama.mecanicadesuelos.biz/anclajes/)
+- [Calicatas](https://calama.mecanicadesuelos.biz/calicatas/)
+- [Cbr Vial](https://calama.mecanicadesuelos.biz/cbr-vial/)
+- [Cimentaciones](https://calama.mecanicadesuelos.biz/cimentaciones/)
+- [Columnas Grava](https://calama.mecanicadesuelos.biz/columnas-grava/)
+- [Densidad Cono Arena](https://calama.mecanicadesuelos.biz/densidad-cono-arena/)
+- [Ensayo Cpt](https://calama.mecanicadesuelos.biz/ensayo-cpt/)
+- [Ensayos Proctor](https://calama.mecanicadesuelos.biz/ensayos-proctor/)
+- [Estabilidad Taludes](https://calama.mecanicadesuelos.biz/estabilidad-taludes/)
+- [Excavaciones Profundas](https://calama.mecanicadesuelos.biz/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://calama.mecanicadesuelos.biz/excavaciones-subterraneo/)
+- [Exploracion](https://calama.mecanicadesuelos.biz/exploracion/)
+- [Geotecnia Vial](https://calama.mecanicadesuelos.biz/geotecnia-vial/)
+- [Granulometria](https://calama.mecanicadesuelos.biz/granulometria/)
+- [Inyecciones](https://calama.mecanicadesuelos.biz/inyecciones/)
+- [Laboratorio In Situ](https://calama.mecanicadesuelos.biz/laboratorio-in-situ/)
+- [Laboratorio Lab](https://calama.mecanicadesuelos.biz/laboratorio-lab/)
+- [Licuefaccion](https://calama.mecanicadesuelos.biz/licuefaccion/)
+- [Limites Atterberg](https://calama.mecanicadesuelos.biz/limites-atterberg/)
+- [Losas Fundacion](https://calama.mecanicadesuelos.biz/losas-fundacion/)
+- [Masw](https://calama.mecanicadesuelos.biz/masw/)
+- [Mejoramiento](https://calama.mecanicadesuelos.biz/mejoramiento/)
+- [Microzonificacion Sismica](https://calama.mecanicadesuelos.biz/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://calama.mecanicadesuelos.biz/monitoreo-excavaciones/)
+- [Muros Contencion](https://calama.mecanicadesuelos.biz/muros-contencion/)
+- [Pavimento Flexible](https://calama.mecanicadesuelos.biz/pavimento-flexible/)
+- [Pavimento Rigido](https://calama.mecanicadesuelos.biz/pavimento-rigido/)
+- [Permeabilidad In Situ](https://calama.mecanicadesuelos.biz/permeabilidad-in-situ/)
+- [Pilotes](https://calama.mecanicadesuelos.biz/pilotes/)
+- [Refraccion Sismica](https://calama.mecanicadesuelos.biz/refraccion-sismica/)
+- [Resistividad](https://calama.mecanicadesuelos.biz/resistividad/)
+- [Sismica](https://calama.mecanicadesuelos.biz/sismica/)
+- [Sondajes Spt](https://calama.mecanicadesuelos.biz/sondajes-spt/)
+- [Taludes](https://calama.mecanicadesuelos.biz/taludes/)
+- [Triaxial](https://calama.mecanicadesuelos.biz/triaxial/)
+- [Tuneles Suelo Blando](https://calama.mecanicadesuelos.biz/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://calama.mecanicadesuelos.biz/vibrocompactacion/)
+- [Zapatas](https://calama.mecanicadesuelos.biz/zapatas/)
+
+## Contact
+- Website: https://calama.mecanicadesuelos.biz/
+
+## About
+This site provides geotechnical engineering services in Calama, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
